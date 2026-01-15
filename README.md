@@ -1,3 +1,3 @@
 # dbdoctor-paper
 
-This is the temporary repository for the [full paper draft](#DBdoctor.pdf) of DBdoctor.
+This is the temporary repository for the [full paper draft](https://github.com/bianhq/dbdoctor-paper/blob/main/DBdoctor.pdf) of DBdoctor.
